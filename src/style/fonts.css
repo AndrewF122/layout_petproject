@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Manrope";
+  src:
+    local("Manrope"),
+    url("../fonts/Manrope-Variable.woff") format("woff"),
+    url("../fonts/Manrope-Variable.woff2") format("woff2"),
+    url("../fonts/Manrope-Variable.eot") format("eot");
+}
+
+@font-face{
+  font-family: "Manrope_extrabold";
+  src: url(../fonts/Manrope-ExtraBold.ttf);
+}
